@@ -136,11 +136,11 @@ body::before {
   }
 }
 .profile-card_social a.linkedin {
-  background: linear-gradient(45deg, #3b5998, #0078d7);
+  background: linear-gradient(45deg, #1da1f2, #0e71c8);
   box-shadow: 0 4px 30px rgba(43, 98, 169, 0.5);
 }
 .profile-card_social a.github {
-  background: linear-gradient(45deg, #8504C6, #A057C4);
+  background: linear-gradient(45deg, #b113d5, #9e24f0);
   box-shadow: 0 4px 30px rgba(43, 98, 169, 0.5);
 }
 .profile-card_social a.behance {
@@ -187,17 +187,17 @@ body::before {
     transform: translateY(-5px);
   }
 }
-.profile-card_actions > button.green {
+.profile-card_actions > button.blue {
   background: linear-gradient(45deg, #1da1f2, #0e71c8);
   box-shadow: 0 4px 30px rgba(19, 127, 212, 0.4);
 }
-.profile-card_actions > button.green.hover {
+.profile-card_actions > button.blue.hover {
   box-shadow: 0 7px 30px rgba(19, 127, 212, 0.75);
 }
-.profile-card_actions > button.orange {
-  background: linear-gradient(45deg, #d5135a, #f05924);
-  box-shadow: 0 7px 30px rgba(223, 45, 70, 0.75);
+.profile-card_actions > button.purple {
+  background: linear-gradient(45deg, #b113d5, #9e24f0);
+  box-shadow: 0 7px 30px rgba(176, 45, 223, 0.75);
 }
-.profile-card_actions > button.orange.hover {
+.profile-card_actions > button.purple.hover {
   box-shadow: 0 7px 30px rgba(223, 45, 70, 0.75);
 }/*# sourceMappingURL=style.css.map */
